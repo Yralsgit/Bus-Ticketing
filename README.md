@@ -13,7 +13,7 @@ This repository aims to provide a high level design for a Bus Ticketing system. 
 #### Notes
 
 1. I have created a SF DX project from scratch and hence most of the folders will be empty since the ask was only for an Evergreen function.
-2. The Evergreen function can be found at \MobilePushNotification\force-app\main\default\functions\PushMobile
+2. The Evergreen function can be found at \MobilePushNotification\force-app\main\default\functions\PushMobile. Check the index.js file for the high level code.
 3. Since Salesforce Evergreen is still in beta mode, the function is a not tested high level code that would potentially work.
 4. Steps used to create an Evergreen function are as below:
 	- Create a new SF DX project using: 
