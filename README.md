@@ -8,7 +8,7 @@ This repository aims to provide a high level design for a Bus Ticketing system. 
 
 - Axelerant_Bus_Trips_Viral : This document contains the High level solution document for the Bus Ticketing System.
 - MobilePushNotification : This is a Salesforce DX Project which contains code for Salesforce Evergreen Mobile Push Notification.
-- Diagrams : High quality diagrams of the images used in the document. It contains the System Architectire, Data Model and Use Case diagrams
+- Diagrams : High quality diagrams of the images used in the document. It contains the System Architecture, Data Model and Use Case diagrams
 
 #### Notes
 
